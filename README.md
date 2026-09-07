@@ -1,2 +1,1 @@
-# dsa-prep
-"DSA &amp; LeetCode Practice", .gitignore: Python or Node.js
+# DSA & LeetCode Practice
